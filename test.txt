@@ -1,1 +1,2 @@
 just testCreating a new branch is quick & simple.
+it is master branch
