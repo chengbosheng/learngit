@@ -3,3 +3,4 @@ just testCreating a new branch is quick & simple.
 it is master branch
 it is featurel branch
 final is Master & Featurel branch
+branch manage 
